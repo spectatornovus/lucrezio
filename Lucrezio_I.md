@@ -1,12 +1,12 @@
-Lucrezio, De Rerum Natura
+# Lucrezio, *De Rerum Natura*
 
 Traduzione di Antonio Vigilante.
 
 Licenza Licenza CC BY-NC-ND. 
 
-Libro I
+## Libro I
 
-A Venere
+#### A Venere
 
 O madre dei Romani, desiderio  
 d’uomini e dèi, o benefica Venere   
@@ -65,12 +65,11 @@ ben lontana da noi e i nostri affanni.
 Senza dolore alcuno e alcun pericolo,
 autonoma e potente, indifferente
 a noi né si compiace per il bene
-che facciamo né mai la coglie l'ira.} (1) 
+che facciamo né mai la coglie l'ira.}[^1] 
 [...]
+[^1]: Questi versi, tratti dal secondo libro (vv.), sono qui aggiunti in alcune edizioni.
 
-[1]: Questi versi, tratti dal secondo libro (vv.), sono qui aggiunti in alcune edizioni.
-
-Argomento del poema
+#### Argomento del poema
 
 Libero dai pensieri presta l’animo  50
 attento e ascolta la vera sapienza  
@@ -85,7 +84,7 @@ li chiameremo corpi genitali,
 materia, semi delle cose, corpi    60
 primi perché compongono ogni origine.   
 
-Epicuro
+#### Epicuro
 
 Schiacciata a terra era la vita umana:  
 la piegava e offendeva minacciandola  
@@ -111,7 +110,7 @@ E così adesso giace sotto i piedi,
 la religione, calpestata e afflitta,
 e la vittoria ci fa uguali al cielo.
 
-La scelleratezza della religione
+#### La scelleratezza della religione
 
 Temo che tu sospetti ch’io ti voglia  80
 avviare a dottrine scellerate  
@@ -141,7 +140,7 @@ massacrata dal padre perché fosse
 sicura la partenza della navi.
 A tali atrocità spinge la fede.
 
-Occorre conoscere la natura
+#### Occorre conoscere la natura
 
 E verrà forse il giorno in cui tu stesso  
 spaventato da qualche vaticinio  
@@ -185,7 +184,7 @@ ci sembra di vedere e di sentire
 qui, proprio qui, qualcuno che da tempo  
 è un pugno d’ossa che la terra abbraccia.  135
 
-Difficoltà della lingua 
+#### Difficoltà della lingua 
 
 So bene che è difficile spiegare  
 le ardue speculazioni greche in versi  
@@ -205,7 +204,7 @@ a dissipare tenebre e terrore
 dell’animo, bensì la conoscenza  
 e la chiara visione delle cose.   
 
-Nulla nasce dal nulla
+#### Nulla nasce dal nulla
 
 Il cui principio per noi sarà questo:  
 nessuna cosa mai nasce dal nulla     150
@@ -293,7 +292,7 @@ se non ci fossero semi, vedresti
 la crescita spontanea d’ogni cosa  
 senza bisogno del lavoro umano.  
 
-Nulla torna al nulla
+#### Nulla torna al nulla
 
 La natura dissolve nei suoi atomi 215   
 ogni cosa esistente, ma nel nulla   
@@ -359,7 +358,7 @@ disfa e ricrea con la stessa materia
 e non permette che nasca una cosa  
 senza che al tempo stesso un’altra muoia. 
 
-Esistono corpuscoli invisibili
+#### Esistono corpuscoli invisibili
 
 Dopo averti insegnato che dal nulla   265
 non nasce nulla, né la vita torna  
@@ -434,7 +433,7 @@ ti salverà dal dubbio, dal cercare
 senza sosta l'essenza delle cose  
 diffidando di quello che ti insegno.  
 
-Il vuoto e i corpi
+#### Il vuoto e i corpi
 
 È vuoto un luogo intatto, senza nulla.  
 Niente si muoverebbe senza il vuoto.  
@@ -527,7 +526,7 @@ l'ultimo mio argomento sarà giunta
 la vecchiaia ad illanguidirci il corpo  
 e a disserrare i lacci della vita.   
 
-Non esiste una terza natura
+#### Non esiste una terza natura
 
 Lascia che torni a tessere la tela.  
 È dunque fatta tutta la natura  
@@ -562,7 +561,7 @@ terza natura oltre gli atomi e il vuoto
 che esista per sé stessa e prima o poi  
 si manifesti ai sensi o alla ragione.  
 
-Gli eventi
+#### Gli eventi
 
 Piuttosto quel che esiste, scoprirai,  
 è congiunto con gli atomi ed il vuoto     450  
@@ -583,14 +582,14 @@ e del futuro viene dalle cose.
 Dobbiamo riconoscerlo: nessuno  
 avverte il tempo senza il movimento  
 o la placida quiete delle cose.  
-Parlano della figlia di Tindaro   (1)  
+Parlano della figlia di Tindaro  [^1]  
 che fu rapita o di come le genti  
 di Troia furono sconfitte in guerra.  
 Pretendono per caso che si creda  
 che queste cose esistano per sé?  
 Il volgere dei secoli ha travolto  
 da tempo ormai le vite di quegli uomini;  
-e gli eventi che accaddero ai troiani  (2) 470  
+e gli eventi che accaddero ai troiani [^2] 470  
 ugualmente possiamo attribuirli  
 ai luoghi che ne furono teatro.  
 Del resto senza la materia e il vuoto,  
@@ -607,7 +606,7 @@ affini al vuoto ed è meglio chiamarli    480
 eventi appartenenti ai corpi e ai luoghi  
 in cui tutte le cose si dipanano.  
 
-La formazione dei corpi
+#### La formazione dei corpi
 
 Tra i corpi distinguiamo gli elementi  
 primi da ciò che formano associandosi.  
@@ -745,7 +744,7 @@ né si tramanderebbero nel tempo
 dai genitori ai figli la natura  
 le usanze e i movimenti della specie.  
 
-La materia non è divisibile all'infinito
+#### La materia non è divisibile all'infinito
 
 Inoltre ci dev'essere una parte  
 essenziale di questi corpi primi   
@@ -797,7 +796,7 @@ per generare: i vari intrecci, il peso,
 il movimento, gli urti, l'affluire  
 da cui deriva tutto ciò che esiste.  
 
-Contro Eraclito
+#### Contro Eraclito
 
 Pertanto chi sostiene che l'essenza   
 delle cose sia il fuoco e che di fuoco  
@@ -827,7 +826,7 @@ non puoi ridurla a un fuoco forte o debole.
 Devono inoltre ammettere che il vuoto  
 si mescola alle cose, se le fiamme  
 sono più o meno dense o rarefatte.  
-Ma le Muse (3), poiché vedono molte  
+Ma le Muse[^3], poiché vedono molte  
 cose in contrasto tra loro, non vogliono  
 ammettere che esista il puro vuoto  
 nelle cose: temendo quel che è arduo  
@@ -906,7 +905,7 @@ a generare il mondo trasformandosi  710
 in ogni altra natura sono, è chiaro,  
 lontani dalla via che porta al vero.  
 
-Contro Empedocle 
+#### Contro Empedocle 
 
 E poi vi sono quelli che raddoppiano  
 gli elementi primari, e al fuoco aggiungono   
@@ -919,7 +918,7 @@ a forma di triangolo dell'isola
 che lo Ionio circonda biancheggiando  
 nelle sue ampie insenature e un piccolo   
 canale in cui le onde si precipitano  
-separa dalle rive dell'Italia.  (4)  720  
+separa dalle rive dell'Italia. [^4]  720  
 Qui è l'orrida Cariddi, qui il rumore  
 dell'Etna fa temere che di nuovo  
 raccolga l'ira del suo fuoco e vomiti  
@@ -1062,7 +1061,7 @@ che hanno le lettere. Ma ben più grande
 è il potere dell'ordine degli atomi  
 da cui nascono cose così varie.  
 
-Contro Anassagora
+#### Contro Anassagora
 
 Ora vediamo l'omeomeria  830  
 di Anassagora. Questo è il nome greco;   
@@ -1180,7 +1179,7 @@ Non dovranno, in tal caso, essere scossi
 da un riso irrefrenabile o versare   
 lacrime amare sul viso e le guance?  920  
 
-Intermezzo
+#### Intermezzo
 
 Adesso vieni, fatti un po' più attento  
 e impara quel che resta da sapere.  
@@ -1224,7 +1223,7 @@ riescano a far presa su di te
 e tu possa vedere la natura  
 di tutto e la sua intima struttura.  950   
 
-L'universo è illimitato
+#### L'universo è illimitato
 
 Ho insegnato che gli atomi che formano  
 la materia volteggiano in eterno  
@@ -1352,7 +1351,7 @@ di nuovi ed affinché gli stessi colpi
 siano bastanti occorre una materia 1050  
 che da tutte le parti sia infinita.  
 
-L'universo non ha centro
+#### L'universo non ha centro
 
 E fa' attenzione, Memmio, a non prestare  
 fede a quello che dicono taluni:  
@@ -1431,7 +1430,7 @@ della fuga degli atomi, quel luogo
 sarà la porta della morte: tutta  
 la materia uscirà da quella parte.  
 
-Conclusione
+#### Conclusione
 
 Queste cose conoscerai a fondo  
 preso per mano, con poca fatica,  
@@ -1441,11 +1440,11 @@ dalla via che conduce alla visione
 della natura ultima del mondo:  
 così ogni cosa accenderà ogni altra.  
 
-Note
+#### Note
 
 ====
 
-[1]: Elena, figlia di Leda e di Tindaro, re di Sparta.
-[2]: Seguo qui l’edizione critica di Deufert, che al verso 469 ha: “namque aliud Teucris, aliud regionibus ipsis”. Altre edizioni hanno: “namque aliud terris, aliud regionibus ipsis”. Gli eventi si possono associare tanto alle persone quanto ai luoghi.
-[3]: Qui non seguo l’edizione di Deufert, che ha: “sed quia multa sibi cernunt contraria, mussant” (v. 657). 
-[4]: Qui seguo l'edizione Deufert. Altri manoscritti hanno Aeoliae.
+[^1]: Elena, figlia di Leda e di Tindaro, re di Sparta.
+[^2]: Seguo qui l’edizione critica di Deufert, che al verso 469 ha: “namque aliud Teucris, aliud regionibus ipsis”. Altre edizioni hanno: “namque aliud terris, aliud regionibus ipsis”. Gli eventi si possono associare tanto alle persone quanto ai luoghi.
+[^3]: Qui non seguo l’edizione di Deufert, che ha: “sed quia multa sibi cernunt contraria, _mussant_” (v. 657). 
+[^4]: Qui seguo l'edizione Deufert. Altri manoscritti hanno Aeoliae.
