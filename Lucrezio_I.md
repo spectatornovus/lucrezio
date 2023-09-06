@@ -1,12 +1,12 @@
-# Lucrezio, *De Rerum Natura*
+Lucrezio, De Rerum Natura
 
 Traduzione di Antonio Vigilante.
 
-Licenza Licenza CC BY-NC-ND. Stato: in attesa di revisione.
+Licenza Licenza CC BY-NC-ND. 
 
-## Libro I
+Libro I
 
-#### A Venere
+A Venere
 
 O madre dei Romani, desiderio  
 d’uomini e dèi, o benefica Venere   
@@ -65,11 +65,12 @@ ben lontana da noi e i nostri affanni.
 Senza dolore alcuno e alcun pericolo,
 autonoma e potente, indifferente
 a noi né si compiace per il bene
-che facciamo né mai la coglie l'ira.}[^1] 
+che facciamo né mai la coglie l'ira.} (1) 
 [...]
-[^1]: Questi versi, tratti dal secondo libro (vv.), sono qui aggiunti in alcune edizioni.
 
-#### Argomento del poema
+[1]: Questi versi, tratti dal secondo libro (vv.), sono qui aggiunti in alcune edizioni.
+
+Argomento del poema
 
 Libero dai pensieri presta l’animo  50
 attento e ascolta la vera sapienza  
@@ -84,7 +85,7 @@ li chiameremo corpi genitali,
 materia, semi delle cose, corpi    60
 primi perché compongono ogni origine.   
 
-#### Epicuro
+Epicuro
 
 Schiacciata a terra era la vita umana:  
 la piegava e offendeva minacciandola  
@@ -110,7 +111,7 @@ E così adesso giace sotto i piedi,
 la religione, calpestata e afflitta,
 e la vittoria ci fa uguali al cielo.
 
-#### La scelleratezza della religione
+La scelleratezza della religione
 
 Temo che tu sospetti ch’io ti voglia  80
 avviare a dottrine scellerate  
@@ -140,7 +141,7 @@ massacrata dal padre perché fosse
 sicura la partenza della navi.
 A tali atrocità spinge la fede.
 
-#### Occorre conoscere la natura
+Occorre conoscere la natura
 
 E verrà forse il giorno in cui tu stesso  
 spaventato da qualche vaticinio  
@@ -184,79 +185,79 @@ ci sembra di vedere e di sentire
 qui, proprio qui, qualcuno che da tempo  
 è un pugno d’ossa che la terra abbraccia.  135
 
-#### Difficoltà della lingua 
+Difficoltà della lingua 
 
 So bene che è difficile spiegare  
 le ardue speculazioni greche in versi  
 latini, soprattutto perché occorrono  
 parole nuove, ché la lingua è povera    
-e l’argomento nuovo, e tuttavia  
+e nuovo l’argomento, e tuttavia  140
 il tuo valore e il piacere sperato     
 d’una dolce amicizia mi convincono  
 a compiere l’impresa, a vigilare  
 nelle notti serene, alla ricerca  
 di parole, di versi che si facciano  
 luce per la tua mente, per mostrarti  
-i recessi più oscuri delle cose.  
+i recessi più oscuri delle cose.  145
 Non sarà dunque la luce del sole  
 non le frecce del giorno luccicanti  
 a dissipare tenebre e terrore  
 dell’animo, bensì la conoscenza  
-e la chiara visione delle cose.  
+e la chiara visione delle cose.   
 
-#### Nulla nasce dal nulla
+Nulla nasce dal nulla
 
 Il cui principio per noi sarà questo:  
-nessuna cosa mai nasce dal nulla   
+nessuna cosa mai nasce dal nulla     150
 per azione divina. In cielo e in terra  
 accadono fenomeni che incutono  
 timore a tutti, poiché se ne ignorano  
 le cause e le ragioni, e si ritiene  
 che avvengano per opera divina.   
-Perciò quando vedremo che dal nulla   
+Perciò quando vedremo che dal nulla   155
 nulla si crea sarà per noi più chiaro  
 quel che cerchiamo, da dove ogni cosa  
 possa crearsi e come tutto avvenga  
 senza alcun intervento degli dei.  
 Se le cose nascessero da nulla,  
 tutto potrebbe nascere da tutto  
-senza bisogno di semi. Dal mare  
+senza bisogno di semi. Dal mare  160
 nascerebbero gli uomini, ed i pesci  
 dalla terra; gli uccelli eromperebbero  
 dal cielo; armenti e bestie d’ogni genere  
 nate a caso dovunque occuperebbero  
 le terre coltivate ed i deserti,  
-e gli alberi darebbero ogni volta  
+e gli alberi darebbero ogni volta  165
 frutti diversi e ogni frutto potrebbe  
 nascere da ogni albero. In assenza  
 di specifici semi quale cosa  
 potrebbe avere un’origine certa?  
 Poiché ogni cosa nasce dai suoi semi,  
-vede la luce dov’è la materia  
+vede la luce dov’è la materia  170
 sua propria ed i suoi corpi elementari;  
 non può nascere a caso da altre cose  
 perché ha sue proprie facoltà nascoste.  
 In primavera vediamo la rosa  
-d’estate il grano, l’autunno suadente  
+d’estate il grano, l’autunno suadente  175
 ci offre la vite: i semi delle cose   
 s’incontrano nei tempi adatti a loro   
 e nella giusta stagione la terra   
 fertile fa spuntare nuova vita   
 che tenera si getta nella luce.   
-Se dal nulla nascessero, d’un tratto   
+Se dal nulla nascessero, d’un tratto   180
 balzerebbero fuori, senza regola   
 in qualsiasi periodo dell’anno:   
 non vi sarebbero principi primi  
 tenuti fuori, in un tempo inadatto,    
 dall’unione che genera la vita.  
 Per la crescita poi non servirebbe   
-il tempo necessario al confluire   
+il tempo necessario al confluire   185
 dei semi e al loro accrescersi: in un attimo  
 diventerebbe giovane il bambino  
 e si farebbe albero il fuscello.   
 Non accade così: gli esseri crescono   
 lentamente, avendo un seme proprio,   
-e crescendo mantengono la specie;   
+e crescendo mantengono la specie;   190
 puoi capire da ciò ch’essi si accrescono   
 con la propria materia. A ciò si aggiunga   
 che dal gravido ventre della terra   
@@ -289,10 +290,10 @@ sono presenti i semi delle cose
 che rivoltando le zolle feconde   
 con l’aratro portiamo in superficie;   
 se non ci fossero semi, vedresti   
-le terre farsi fertili da sola  
+la crescita spontanea d’ogni cosa  
 senza bisogno del lavoro umano.  
 
-#### Nulla torna al nulla
+Nulla torna al nulla
 
 La natura dissolve nei suoi atomi 215   
 ogni cosa esistente, ma nel nulla   
@@ -331,13 +332,13 @@ mentre corpi composti da principi
 eterni hanno legami che soltanto  
 una forza adeguata può spezzare.  
 E invece i corpi, composti da nessi  
-diseguali dei semi e da materia   [245]  
+diseguali dei semi e da materia   245  
 eterna, restano incolumi a meno  
 che li aggredisca una forza adeguata  
 a vincerne l’interna resistenza.  
 E dunque nulla va nel nulla: tutto  
 si dissolve e ritorna alla materia.  
-E muoiono le piogge, quando il padre   [250]  
+E muoiono le piogge, quando il padre   250  
 Cielo le getta in grembo a madre Terra:  
 ma ne nascono messi rigogliose,  
 nuovi rami verdeggiano sugli alberi,  
@@ -348,25 +349,25 @@ piene di bimbi, nei boschi frondosi
 risuona il pigolio dei nuovi uccelli  
 e le greggi pesanti si riposano  
 sui campi verdeggianti, le mammelle  
-colme di latte; sulle zampe incerte   [260]  
+colme di latte; sulle zampe incerte   260  
 giocano i loro piccoli nell’erba  
 tenera e sanno solo il desiderio  
 del latte puro delle loro madri.    
 Non periscono dunque interamente  
-le cose che vediamo, la natura  
+le cose che vediamo: la natura  
 disfa e ricrea con la stessa materia  
 e non permette che nasca una cosa  
 senza che al tempo stesso un’altra muoia. 
 
-#### Gli atomi
+Esistono corpuscoli invisibili
 
-Dopo averti insegnato che dal nulla   
+Dopo averti insegnato che dal nulla   265
 non nasce nulla, né la vita torna  
 al nulla, forse nutrirai dei dubbi,  
 poiché i principi primi di cui parlo  
-non sono percettibili alla vista.   
-Ma occorre riconoscerlo: vi sono  [270] 
-nelle cose corpuscoli invisibili.  
+non sono percettibili alla vista.  
+Ma ascolta quanti corpi non visibili  270
+esistono senz’altro nelle cose.   
 Ecco: si leva il vento batte il mare  
 butta giù grandi navi spinge via   
 nuvole vorticando sopra i campi   
@@ -376,7 +377,7 @@ mormorando minaccia e s’accanisce.
 Esso ha di certo corpuscoli occulti    
 che percuotono mare terre nuvole     
 e li strappano via nel loro turbine.     
-Non è diversa la furia dell’acqua,  [280]     
+Non è diversa la furia dell’acqua,  280     
 la cui natura pure è dolce, quando     
 le grandi piogge gonfiano i torrenti      
 e giù dagli alti monti si precipita     
@@ -384,7 +385,7 @@ investe quel che trova sul cammino
 e non c’è ponte che riesca a resisterle:   
 l’impeto spezza i pilastri, la furia   
 dell’acqua urlando ne travolge i massi.  
-Lo stesso fanno i venti quando liberi   [290]. 
+Lo stesso fanno i venti quando liberi   290 
 si scagliano potenti come un fiume  
 in piena su ogni cosa, la sollevano  
 e la portano via nel loro vortice.  
@@ -394,18 +395,18 @@ da quelli ben visibili del fiume
 per gli effetti e l’azione sulle cose.  
 Ugualmente sentiamo vari odori  
 ma non scorgiamo nulla intorno al naso  
-né cogliamo con gli occhi il caldo e il freddo  [300]   
+né cogliamo con gli occhi il caldo e il freddo  300   
 o vediamo la voce: tutte cose  
 che sono tuttavia fatte di corpi  
 poiché giungono ai sensi; senza corpo  
 non può esservi contatto tra le cose.  
 Le vesti stese in riva al mare, dove   
-s’infrangono le onde, quando è notte  
-s’inumidiscono e al sole poi si asciugano;  
+s’infrangono le onde, s’umidiscono,
+ma s’asciugano poi distese al sole;
 non vediamo però l’acqua posarsi  
 né allontanarsi poi per il calore:  
 essa è dispersa in parti così piccole  
-che non riescono a scorgerle i nostri occhi.  [310]  
+che non riescono a scorgerle i nostri occhi.  310  
 L'anello al nostro dito si assottiglia  
 col passare degli anni, lentamente  
 la goccia fora la pietra, nei campi   
@@ -416,7 +417,7 @@ e a furia d'esser stretta da chi passa
 la mano destra delle statue bronzee  
 messe davanti alle porte col tempo  
 mostra segni d'usura. Tutte cose  
-che il contatto continuo diminuisce  [320]  
+che il contatto continuo diminuisce  320  
 ma la natura gelosa nasconde   
 come e quando i corpuscoli si stacchino.  
 Benché acuta, la vista non riesce  
@@ -427,13 +428,13 @@ che opera sugli scogli la salsedine.
 La natura fa tutto con corpuscoli  
 nascosti ai nostri occhi. E tuttavia  
 non vi sono soltanto questi corpi  
-stretti tra loro. Esiste infatti il vuoto. [330]  
+stretti tra loro. Esiste infatti il vuoto. 330  
 Saperlo ti sarà di grande aiuto,  
 ti salverà dal dubbio, dal cercare  
 senza sosta l'essenza delle cose  
 diffidando di quello che ti insegno.  
 
-#### Il vuoto e i corpi
+Il vuoto e i corpi
 
 È vuoto un luogo intatto, senza nulla.  
 Niente si muoverebbe senza il vuoto.  
@@ -455,7 +456,7 @@ e piange goccia a goccia le sue lacrime
 si spande il cibo in corpo a ogni animale   350  
 crescono gli alberelli e danno frutto  
 quand’è tempo perché dalle radici  
-si diffonde la linfa fino ai rami  
+si diffonde la linfa fino ai rami,  
 le voci ti raggiungono nei posti  
 più riparati, indifferenti ai muri,  
 e il freddo ti colpisce nelle ossa.   
@@ -525,7 +526,10 @@ che prima che il tuo orecchio abbia ascoltato
 l'ultimo mio argomento sarà giunta  
 la vecchiaia ad illanguidirci il corpo  
 e a disserrare i lacci della vita.   
-Fammi tornare a tessere la tela.  
+
+Non esiste una terza natura
+
+Lascia che torni a tessere la tela.  
 È dunque fatta tutta la natura  
 di due cose soltanto: i corpi e il vuoto    420  
 in cui quelli son posti e in cui si muovono  
@@ -552,13 +556,13 @@ agisce su altre cose o ne subisce
 l'azione oppure è il luogo in cui le cose  
 esistono ed agiscono. Ma nulla  
 può compiere o subire azione alcuna  
-senza corpo ne può, se non è vuoto,   
+senza corpo né può, se non è vuoto,   
 accogliere altre cose. Non c'è alcuna  
 terza natura oltre gli atomi e il vuoto  
 che esista per sé stessa e prima o poi  
 si manifesti ai sensi o alla ragione.  
 
-#### Gli eventi
+Gli eventi
 
 Piuttosto quel che esiste, scoprirai,  
 è congiunto con gli atomi ed il vuoto     450  
@@ -579,14 +583,14 @@ e del futuro viene dalle cose.
 Dobbiamo riconoscerlo: nessuno  
 avverte il tempo senza il movimento  
 o la placida quiete delle cose.  
-Parlano della figlia di Tindaro  [^1]  
+Parlano della figlia di Tindaro   (1)  
 che fu rapita o di come le genti  
 di Troia furono sconfitte in guerra.  
 Pretendono per caso che si creda  
 che queste cose esistano per sé?  
 Il volgere dei secoli ha travolto  
 da tempo ormai le vite di quegli uomini;  
-e gli eventi che accaddero ai troiani [^2] 470  
+e gli eventi che accaddero ai troiani  (2) 470  
 ugualmente possiamo attribuirli  
 ai luoghi che ne furono teatro.  
 Del resto senza la materia e il vuoto,  
@@ -603,7 +607,7 @@ affini al vuoto ed è meglio chiamarli    480
 eventi appartenenti ai corpi e ai luoghi  
 in cui tutte le cose si dipanano.  
 
-#### La formazione dei corpi
+La formazione dei corpi
 
 Tra i corpi distinguiamo gli elementi  
 primi da ciò che formano associandosi.  
@@ -619,7 +623,7 @@ spacca le pietre e a un fuoco vivo cedono
 per quanto duri siano l’oro e il bronzo.   
 L’argento si riscalda e si raffredda:  
 lo sentiamo tenendo con due mani  
-com’è d’uso una coppa in cui si versa  
+com’è d’uso una coppa per versare  
 del liquido dall’alto. Non esiste  
 pertanto, a quanto pare, cosa alcuna  
 al mondo che sia solida. Dobbiamo  
@@ -693,8 +697,8 @@ e giungerebbe al fiore dell'età.
 Tutto, vediamo, si dissolve in fretta  
 mentre lento è il processo di ricrescita,   
 e dunque quel che il tempo già passato  
-nel volgere dei secoli ha squassato  
-frantumato travolto non avrebbe  
+nel volgere dei secoli ha squassato,  
+frantumato e travolto non avrebbe  
 il tempo necessario per ricrescere.  560  
 Certo alla distruzione è stato imposto  
 un tempo stabilito, se vediamo  
@@ -741,7 +745,7 @@ né si tramanderebbero nel tempo
 dai genitori ai figli la natura  
 le usanze e i movimenti della specie.  
 
-#### La materia non è divisibile all'infinito
+La materia non è divisibile all'infinito
 
 Inoltre ci dev'essere una parte  
 essenziale di questi corpi primi   
@@ -793,7 +797,7 @@ per generare: i vari intrecci, il peso,
 il movimento, gli urti, l'affluire  
 da cui deriva tutto ciò che esiste.  
 
-#### Contro Eraclito
+Contro Eraclito
 
 Pertanto chi sostiene che l'essenza   
 delle cose sia il fuoco e che di fuoco  
@@ -823,7 +827,7 @@ non puoi ridurla a un fuoco forte o debole.
 Devono inoltre ammettere che il vuoto  
 si mescola alle cose, se le fiamme  
 sono più o meno dense o rarefatte.  
-Ma le Muse[^3], poiché vedono molte  
+Ma le Muse (3), poiché vedono molte  
 cose in contrasto tra loro, non vogliono  
 ammettere che esista il puro vuoto  
 nelle cose: temendo quel che è arduo  
@@ -857,7 +861,7 @@ e grazie al cui viavai, che cambia l'ordine,
 si muta la natura delle cose  
 e si trasformano i corpi, s'intende  
 che non sono corpuscoli di fuoco.  
-Se così fosse, nulla cambierebbe 680  
+E non farebbe alcuna differenza 680  
 il loro separarsi e allontanarsi  
 o il sopraggiungere d'altri o il mutare  
 disposizione, se avessero tutti  
@@ -902,7 +906,7 @@ a generare il mondo trasformandosi  710
 in ogni altra natura sono, è chiaro,  
 lontani dalla via che porta al vero.  
 
-#### Contro Empedocle 
+Contro Empedocle 
 
 E poi vi sono quelli che raddoppiano  
 gli elementi primari, e al fuoco aggiungono   
@@ -915,7 +919,7 @@ a forma di triangolo dell'isola
 che lo Ionio circonda biancheggiando  
 nelle sue ampie insenature e un piccolo   
 canale in cui le onde si precipitano  
-separa dalle rive dell'Italia. [^4]  720  
+separa dalle rive dell'Italia.  (4)  720  
 Qui è l'orrida Cariddi, qui il rumore  
 dell'Etna fa temere che di nuovo  
 raccolga l'ira del suo fuoco e vomiti  
@@ -974,7 +978,7 @@ da questi quattro elementi e poi torna
 a dissolversi in essi, più che dire  
 ch'essi sono i principi delle cose  
 non dovremmo al contrario ritenere  
-che hanno invece le cose per origine?  
+che nascano piuttosto dalle cose?  
 Tali elementi infatti si producono  
 gli uni dagli altri, mutano colore  
 e l'intera natura, e ciò dà sempre.  
@@ -1009,7 +1013,7 @@ Non così devono essere i principi.
 e permanga immutabile e non tutto  
 sia ricondotto al nulla. Trasformarsi   
 e uscire dai confini stabiliti  
-per ogni cosa è la morte immediata. [^5]  
+per ogni cosa è la morte immediata.   
 Gli elementi di cui ho appena detto   
 invece si trasformano; pertanto  
 devono derivare da altre cose  
@@ -1058,7 +1062,7 @@ che hanno le lettere. Ma ben più grande
 è il potere dell'ordine degli atomi  
 da cui nascono cose così varie.  
 
-#### Contro Anassagora
+Contro Anassagora
 
 Ora vediamo l'omeomeria  830  
 di Anassagora. Questo è il nome greco;   
@@ -1096,7 +1100,7 @@ e sotto i nostri occhi si distruggono
 se un qualche violenza le travolge.   
 E lo ripeto: nulla può ridursi   
 al nulla né dal nulla può prodursi.  
- Poiché il cibo alimenta e nutre il corpo  
+Poiché il cibo alimenta e nutre il corpo  
 è poi chiaro che vene, sangue ed ossa  860  
 **  
 e se ancora diranno che ogni cibo  
@@ -1116,7 +1120,7 @@ potrai fare uso di parole identiche.
 Se già contiene in sé, benché nascosti  
 il fuoco, il fumo e la cenere, il legno  
 è fatto allora di elementi estranei   
-elementi che sorgono da esso. [^6]  
+elementi che sorgono da esso.  
 Resta solo una stretta via di fuga   
 che Anassagora tenta, sostenendo  
 che certo, in ogni cosa si nascondono   
@@ -1176,7 +1180,7 @@ Non dovranno, in tal caso, essere scossi
 da un riso irrefrenabile o versare   
 lacrime amare sul viso e le guance?  920  
 
-#### Intermezzo
+Intermezzo
 
 Adesso vieni, fatti un po' più attento  
 e impara quel che resta da sapere.  
@@ -1220,13 +1224,13 @@ riescano a far presa su di te
 e tu possa vedere la natura  
 di tutto e la sua intima struttura.  950   
 
-#### L'universo è illimitato
+L'universo è illimitato
 
 Ho insegnato che gli atomi che formano  
 la materia volteggiano in eterno  
 e attraversano i secoli, invincibili.  
 Consideriamo adesso se l'insieme  
-degli atomi ha una fine oppure no.  
+degli atomi abbia fine oppure no.  
 E dal momento che abbiamo scoperto  
 che esiste il vuoto, che sia luogo o spazio,  
 in cui tutte le cose si sviluppano,  
@@ -1340,7 +1344,7 @@ Possono battere fitti e tenere
 ferma una parte finché giunge altra  
 materia a completare quel che manca;  
 certe volte però sono costretti  
-a rimbalzare offrendo alla elementi  
+a rimbalzare offrendo agli elementi  
 lo spazio e il tempo per fuggire via  
 liberi da ogni vincolo. Per questo  
 è necessario che sempre ne accorrano  
@@ -1348,7 +1352,7 @@ di nuovi ed affinché gli stessi colpi
 siano bastanti occorre una materia 1050  
 che da tutte le parti sia infinita.  
 
-#### L'universo non ha centro
+L'universo non ha centro
 
 E fa' attenzione, Memmio, a non prestare  
 fede a quello che dicono taluni:  
@@ -1374,7 +1378,7 @@ perché noi lo vogliamo; quando lì
 hanno il sole da noi è notte fonda,  
 le stagioni si alternano alle nostre  
 e i giorni corrispondono alle notti.  
-È l'ipotesi sciocca di chi abbraccia [^7]  
+È l'ipotesi sciocca di chi abbraccia   
 una errata visione delle cose.  1070  
 Non può esserci infatti centro alcuno  
 in un mondo infinito; e se vi fosse   
@@ -1427,7 +1431,7 @@ della fuga degli atomi, quel luogo
 sarà la porta della morte: tutta  
 la materia uscirà da quella parte.  
 
-#### Conclusione
+Conclusione
 
 Queste cose conoscerai a fondo  
 preso per mano, con poca fatica,  
@@ -1437,14 +1441,11 @@ dalla via che conduce alla visione
 della natura ultima del mondo:  
 così ogni cosa accenderà ogni altra.  
 
-#### Note
+Note
 
 ====
 
-[^1]: Elena, figlia di Leda e di Tindaro, re di Sparta.
-[^2]: Seguo qui l’edizione critica di Deufert, che al verso 469 ha: “namque aliud Teucris, aliud regionibus ipsis”. Altre edizioni hanno: “namque aliud terris, aliud regionibus ipsis”. Gli eventi si possono associare tanto alle persone quanto ai luoghi.
-[^3]: Qui non seguo l’edizione di Deufert, che ha: “sed quia multa sibi cernunt contraria, _mussant_” (v. 657). 
-[^4]: Qui seguo l'edizione Deufert. Altri manoscritti hanno Aeoliae.
-[^5]: Ripetizione dei versi 670 (controlla).
-[^6]: Qui il testo è corrotto. Controlla le edizioni.
-[^7]: I versi 1068-1071 sono corrotti. La traduzione tiene conto delle integrazioni del Munro (controllare).
+[1]: Elena, figlia di Leda e di Tindaro, re di Sparta.
+[2]: Seguo qui l’edizione critica di Deufert, che al verso 469 ha: “namque aliud Teucris, aliud regionibus ipsis”. Altre edizioni hanno: “namque aliud terris, aliud regionibus ipsis”. Gli eventi si possono associare tanto alle persone quanto ai luoghi.
+[3]: Qui non seguo l’edizione di Deufert, che ha: “sed quia multa sibi cernunt contraria, mussant” (v. 657). 
+[4]: Qui seguo l'edizione Deufert. Altri manoscritti hanno Aeoliae.
