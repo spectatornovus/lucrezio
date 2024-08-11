@@ -112,110 +112,110 @@ e la vittoria ci fa uguali al cielo.
 
 #### La scelleratezza della religione  
 
-Temo che tu sospetti ch’io ti voglia  80  
+Temo che tu sospetti ch’io ti voglia  80    
 avviare a dottrine scellerate  
 e farti prendere una via malvagia.  
 Ma è più spesso la religione stessa  
-che spinge a compiere azioni malvage
+che spinge a compiere azioni malvage  
 e scellerate: come quando in Aulide  
 i capi greci, uomini eminenti,  
 orribilmente violarono l’ara  
-della vergine Trivia con il sangue  85
+della vergine Trivia con il sangue  85  
 d’Ifigenia. Appena le ricadde  
 sulle guance la benda che avvolgeva   
 i suoi capelli di vergine vide  
 il padre triste davanti all’altare  
-i sacerdoti che per lui celavano  90
-la spada e i cittadini che piangevano:  
+i sacerdoti che per lui celavano  90  
+la spada e i cittadini che piangevano:    
 cadde supplice, muta dal terrore.  
 Non servì alla misera ragazza  
 aver donato al re il nome di padre.  
 Tremava; mani d’uomo la portarono  
-all'altare, ma non perché compiuto
-il sacro rito fosse consegnata
-ai chiari canti nuziali, bensì
-per farsi ostia, lei pura, le colpevole,  100
-lei vittima nel tempo delle nozze,
-massacrata dal padre perché fosse
-sicura la partenza della navi.
-A tali atrocità spinge la fede.
+all'altare, ma non perché compiuto  
+il sacro rito fosse consegnata  
+ai chiari canti nuziali, bensì  
+per farsi ostia, lei pura, le colpevole,  100  
+lei vittima nel tempo delle nozze,  
+massacrata dal padre perché fosse  
+sicura la partenza della navi.  
+A tali atrocità spinge la fede.  
 
-#### Occorre conoscere la natura
+#### Occorre conoscere la natura  
 
-E verrà forse il giorno in cui tu stesso  
+E verrà forse il giorno in cui tu stesso    
 spaventato da qualche vaticinio  
 te ne andrai via da me: a forza d’incubi  
-sanno cambiarti fino nel profondo  105
+sanno cambiarti fino nel profondo  105  
 sporcando di paura ogni tua gioia.  
-E certo: se sapessimo che ha fine
-con la morte qualsiasi sofferenza
-non avrebbero presa su di noi
-religioni e profeti minacciosi.
-Ma se dopo la morte temi pene  110
-eterne come fai a ribellarti?  
-Dove trovi la forza e le ragioni?  
+E certo: se sapessimo che ha fine  
+con la morte qualsiasi sofferenza  
+non avrebbero presa su di noi  
+religioni e profeti minacciosi.  
+Ma se dopo la morte temi pene  110  
+eterne come fai a ribellarti?   
+Dove trovi la forza e le ragioni?    
 La natura dell’anima si ignora,  
-se con noi nasca o s’insinui alla nascita  
+se con noi nasca o s’insinui alla nascita    
 se con noi morta si spezzi nel nulla  
-o vada nelle tenebre dell’Orco   115
+o vada nelle tenebre dell’Orco   115  
 alle grandi paludi o si reincarni  
 per decreto divino in qualche bestia  
 come credeva Ennio, che per primo  
 colse fronde perenni d’Elicona  
-e ottenne fama tra le genti italiche;  
-dichiara, è vero, nei suoi versi eterni  
-che esiste l’Acheronte, ma non l’abitano 120 
+e ottenne fama tra le genti italiche;   
+dichiara, è vero, nei suoi versi eterni    
+che esiste l’Acheronte, ma non l’abitano 120   
 l’anime nostre, né i corpi, ma solo  
 parvenze pallidissime di noi.  
 Da qui, ricorda, gli giunse il fantasma  
 d’Omero la cui fama è senza fine  
-e prese a dirgli con lacrime amare  125
+e prese a dirgli con lacrime amare  125  
 la natura profonda delle cose.  
 Per questo occorre conoscere bene  
 ogni cosa del cielo, i movimenti  
 del sole e della luna, e quale forza  
-governi quel che accade sulla terra,  130
-ma più urgente è indagare attentamente  
+governi quel che accade sulla terra,  130  
+ma più urgente è indagare attentamente   
 la natura dell’anima e dell’animo  
 e che succede quando con terrore  
 a volte svegli, se siamo malati,  
 a volte invece sepolti nel sonno  
 ci sembra di vedere e di sentire  
 qui, proprio qui, qualcuno che da tempo  
-è un pugno d’ossa che la terra abbraccia.  135
+è un pugno d’ossa che la terra abbraccia.  135  
 
-#### Difficoltà della lingua 
+#### Difficoltà della lingua  
 
-So bene che è difficile spiegare  
+So bene che è difficile spiegare    
 le ardue speculazioni greche in versi  
 latini, soprattutto perché occorrono  
 parole nuove, ché la lingua è povera    
-e nuovo l’argomento, e tuttavia  140
+e nuovo l’argomento, e tuttavia  140  
 il tuo valore e il piacere sperato     
 d’una dolce amicizia mi convincono  
 a compiere l’impresa, a vigilare  
 nelle notti serene, alla ricerca  
 di parole, di versi che si facciano  
 luce per la tua mente, per mostrarti  
-i recessi più oscuri delle cose.  145
+i recessi più oscuri delle cose.  145  
 Non sarà dunque la luce del sole  
 non le frecce del giorno luccicanti  
 a dissipare tenebre e terrore  
 dell’animo, bensì la conoscenza  
 e la chiara visione delle cose.   
 
-#### Nulla nasce dal nulla
+#### Nulla nasce dal nulla  
 
 Il cui principio per noi sarà questo:  
-nessuna cosa mai nasce dal nulla     150
-per azione divina. In cielo e in terra  
-accadono fenomeni che incutono  
-timore a tutti, poiché se ne ignorano  
-le cause e le ragioni, e si ritiene  
-che avvengano per opera divina.   
-Perciò quando vedremo che dal nulla   155
-nulla si crea sarà per noi più chiaro  
-quel che cerchiamo, da dove ogni cosa  
+nessuna cosa mai nasce dal nulla     150  
+per azione divina. In cielo e in terra   
+accadono fenomeni che incutono    
+timore a tutti, poiché se ne ignorano   
+le cause e le ragioni, e si ritiene   
+che avvengano per opera divina.    
+Perciò quando vedremo che dal nulla   155  
+nulla si crea sarà per noi più chiaro   
+quel che cerchiamo, da dove ogni cosa    
 possa crearsi e come tutto avvenga  
 senza alcun intervento degli dei.  
 Se le cose nascessero da nulla,  
