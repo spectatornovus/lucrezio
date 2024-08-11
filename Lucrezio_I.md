@@ -16,106 +16,106 @@ e le terre fruttifere: per te
 ogni animale viene concepito    
 e nato accoglie la luce del sole;  5   
 fuggono i venti quando appari, o dea,     
-e le nubi del cielo; a te la terra   
-offre i fiori soavi ti sorride  
-la distesa marina e il cielo calmo  
-risplende. Non appena i giorni s'aprono
-alla bella stagione e soffia libero   10
-lo zefiro fecondo gli uccelletti
-dell'aria sono i primi ad annunciare
-il tuo arrivo, o dea, col cuore scosso
-dalla tua forza. Le bestie selvatiche
-si rincorrono poi nei lieti campi  15
-e attraversano i rapidi torrenti;
-ognuno corre dove tu lo guidi  
+e le nubi del cielo; a te la terra    
+offre i fiori soavi ti sorride    
+la distesa marina e il cielo calmo    
+risplende. Non appena i giorni s'aprono  
+alla bella stagione e soffia libero   10  
+lo zefiro fecondo gli uccelletti  
+dell'aria sono i primi ad annunciare  
+il tuo arrivo, o dea, col cuore scosso  
+dalla tua forza. Le bestie selvatiche  
+si rincorrono poi nei lieti campi  15  
+e attraversano i rapidi torrenti;  
+ognuno corre dove tu lo guidi    
 con la tua grazia addosso. In tutti i cuori  
 svegli l’amore e per mari per monti  
 per i fiumi impetuosi tra le fronde  
 degli alberi nei nidi degli uccelli  
 nei verdi campi il desiderio spinge  
-ognuno a propagare la sua specie.  20
+ognuno a propagare la sua specie.  20  
 Poiché tu sola reggi la natura  
-e senza te nulla accade di lieto 
-ed amabile chiedo il tuo sostegno
-in quest'impresa cui mi accingo: dire
-in versi la natura delle cose
-in favore di Memmio che tu, dea,
-hai voluto eccellente in ogni cosa,  
-in ogni tempo. Dona, dea, un’eterna  
-grazia a questi miei versi: e fai tacere  
-le opere feroci degli eserciti  30
-per mari e terre.  Tu sola puoi dare  
+e senza te nulla accade di lieto  
+ed amabile chiedo il tuo sostegno  
+in quest'impresa cui mi accingo: dire  
+in versi la natura delle cose  
+in favore di Memmio che tu, dea,  
+hai voluto eccellente in ogni cosa,   
+in ogni tempo. Dona, dea, un’eterna   
+grazia a questi miei versi: e fai tacere    
+le opere feroci degli eserciti  30  
+per mari e terre.  Tu sola puoi dare    
 pace ai mortali, poiché spesso Marte  
-che armato regge le opere feroci
+che armato regge le opere feroci  
 della guerra al tuo grembo s’abbandona  
 vinto dalla ferita dell’amore  
 che mai si sana, e allunga il suo bel collo  
-e ti guarda con l’ansia dell’amore  35
+e ti guarda con l’ansia dell’amore  35  
 e lo spirito appeso alla tua bocca.  
 E la tua bocca, curva su di lui,  
 con le parole più dolci gli chieda  
-pace per i Romani, o illustre dea.  40
+pace per i Romani, o illustre dea.  40  
 In questo tempo duro per la patria  
 non posso dedicarmi a questa impresa  
 con animo sereno, e neanche Memmio  
 può sottrarsi alla pubblica salvezza.  
-{La natura divina infatti gode
-d'una pace completa ed immortale,   45
-ben lontana da noi e i nostri affanni.
-Senza dolore alcuno e alcun pericolo,
-autonoma e potente, indifferente
-a noi né si compiace per il bene
-che facciamo né mai la coglie l'ira.}[^1] 
+{La natura divina infatti gode  
+d'una pace completa ed immortale,   45  
+ben lontana da noi e i nostri affanni.  
+Senza dolore alcuno e alcun pericolo,  
+autonoma e potente, indifferente  
+a noi né si compiace per il bene  
+che facciamo né mai la coglie l'ira.}[^1]  
 [...]
 [^1]: Questi versi, tratti dal secondo libro (vv.), sono qui aggiunti in alcune edizioni.
 
-#### Argomento del poema
+#### Argomento del poema  
 
-Libero dai pensieri presta l’animo  50
-attento e ascolta la vera sapienza  
+Libero dai pensieri presta l’animo  50  
+attento e ascolta la vera sapienza   
 affinché non disprezzi ed abbandoni  
 ciò che ti dono con amore schietto  
 prima ancora d’averlo ben compreso.  
 Comincerò dai cieli e dagli dèi  
-e dai primi princìpi con i quali   55
+e dai primi princìpi con i quali   55  
 la natura dà vita ad ogni cosa  
 l’alimenta l’accresce e la dissolve:  
 li chiameremo corpi genitali,  
-materia, semi delle cose, corpi    60
+materia, semi delle cose, corpi    60  
 primi perché compongono ogni origine.   
 
-#### Epicuro
+#### Epicuro  
 
 Schiacciata a terra era la vita umana:  
 la piegava e offendeva minacciandola  
-con aspetto terribile dal cielo   65
+con aspetto terribile dal cielo   65  
 la religione, quando un uomo greco,  
 un mortale per primo alzò lo sguardo  
 e osò sfidarla: e non riuscì la fama  
 dei numi a spaventarlo, non il fulmine  
 né il minaccioso fragore del cielo;  
-lo eccitarono, anzi, ne sfidarono
-il valore, ed ecco che per primo  70
-desiderò di abbattere le porte
-ben serrate dell'universo intero.
+lo eccitarono, anzi, ne sfidarono  
+il valore, ed ecco che per primo  70  
+desiderò di abbattere le porte  
+ben serrate dell'universo intero.  
 Vinse il suo ingegno vivo e si gettò  
 oltre le mura del mondo fiammanti  
 e con la mente e l’animo percorse  
 l’immensità del tutto; vittorioso  
-da lì ci insegna cosa nasce, cosa  75
+da lì ci insegna cosa nasce, cosa  75  
 non può nascere, quale sia il potere  
 limitato che a tutto è stato dato  
 e i confini che segnano ogni cosa.  
-E così adesso giace sotto i piedi,
-la religione, calpestata e afflitta,
-e la vittoria ci fa uguali al cielo.
+E così adesso giace sotto i piedi,  
+la religione, calpestata e afflitta,  
+e la vittoria ci fa uguali al cielo.  
 
-#### La scelleratezza della religione
+#### La scelleratezza della religione  
 
-Temo che tu sospetti ch’io ti voglia  80
+Temo che tu sospetti ch’io ti voglia  80  
 avviare a dottrine scellerate  
 e farti prendere una via malvagia.  
-Ma è più spesso la religione stessa
+Ma è più spesso la religione stessa  
 che spinge a compiere azioni malvage
 e scellerate: come quando in Aulide  
 i capi greci, uomini eminenti,  
