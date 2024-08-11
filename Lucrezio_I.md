@@ -11,12 +11,12 @@ Licenza Licenza CC BY-NC-ND.
 O madre dei Romani, desiderio  
 d’uomini e dèi, o benefica Venere   
 che sotto gli astri erranti del cielo  
-riempi i mari, culla delle navi,
-e le terre fruttifere: per te
-ogni animale viene concepito  
-e nato accoglie la luce del sole;  5
-fuggono i venti quando appari, o dea,  
-e le nubi del cielo; a te la terra  
+riempi i mari, culla delle navi,  
+e le terre fruttifere: per te    
+ogni animale viene concepito    
+e nato accoglie la luce del sole;  5   
+fuggono i venti quando appari, o dea,     
+e le nubi del cielo; a te la terra   
 offre i fiori soavi ti sorride  
 la distesa marina e il cielo calmo  
 risplende. Non appena i giorni s'aprono
